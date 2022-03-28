@@ -7,6 +7,6 @@ public class GitDemo {
             System.out.println("当前是第几次+----"+i);
         }
         System.out.println("-----end");
-        System.out.println("00000000000");
+        System.out.println("我在远程库上修改了代码,哈哈哈哈");
     }
 }
